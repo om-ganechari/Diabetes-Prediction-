@@ -8,7 +8,7 @@ Predict the likelihood of diabetes in individuals using machine learning models.
 
 ## 🔗 Live Deployment
 
-🌐 **Try the App Here**: [Click to Launch Diabetes Predictor](https://your-deployment-link.streamlit.app)
+🌐 **Try the App Here**: [https://ba5h5eb5y2xujyqf5dpzzm.streamlit.app/)
 
 ---
 
