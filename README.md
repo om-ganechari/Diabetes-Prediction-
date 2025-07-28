@@ -22,7 +22,29 @@ Predict the likelihood of diabetes in individuals using machine learning models.
 This project uses a dataset of diagnostic measurements to train a machine learning model that predicts whether a patient is likely to have diabetes. The key objective is to help in proactive health monitoring by offering accurate, fast, and accessible predictions.
 
 ---
+# File Structure :
+diabetes-prediction-ml/
+│
+├── dataset/
+│   └── diabetes.csv
+├── app.py
+├── model.pkl
+├── diabetes_prediction.ipynb
+├── README.md
+└── requirements.txt
 
+---
+
+# Future Improvements
+Integrate deep learning models
+
+Add medical advice APIs
+
+Firebase integration for user tracking
+
+Deploy on HuggingFace Spaces or Render
+
+---
 ## 🔍 Features
 
 - 🚀 User-friendly input system
@@ -74,6 +96,14 @@ This project uses a dataset of diagnostic measurements to train a machine learni
 
 1. Clone the repo:
   https://github.com/om-ganechari/Diabetes-Prediction-.git
+
+---
+# Author :
+ Mr.Om Ganechari
+
+LinkedIn: www.linkedin.com/in/om-ganechari-24a928272
+
+GitHub:https://github.com/om-ganechari
 
 
  
