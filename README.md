@@ -4,11 +4,7 @@ Predict the likelihood of diabetes in individuals using machine learning models.
 
 > 💡 Note: This is a portfolio-level project for learning and demonstration purposes.
 
----
 
-## 🔗 Live Deployment
-
-🌐 **Try the App Here**: [https://ba5h5eb5y2xujyqf5dpzzm.streamlit.app/)
 
 ---
 
