@@ -14,8 +14,7 @@ Predict the likelihood of diabetes in individuals using machine learning models.
 
 ## 🎥 Demo Video
 
-▶️ **Watch Demo Video**: [YouTube - Diabetes Prediction App Walkthrough](https://youtu.be/your-demo-video-link)
-
+▶️ **Watch Demo Video**: [https://drive.google.com/file/d/1NoKyWua1z2q6WTqe5aqEyWNNEanBRA1i/view?usp=drive_link]
 ---
 
 ## 📌 Project Overview
