@@ -73,6 +73,7 @@ This project uses a dataset of diagnostic measurements to train a machine learni
 ## 🚧 How to Run the Project
 
 1. Clone the repo:
-   ```  https://github.com/om-ganechari/Diabetes-Prediction-.git
+  https://github.com/om-ganechari/Diabetes-Prediction-.git
+
 
  
