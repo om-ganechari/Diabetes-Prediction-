@@ -74,5 +74,4 @@ This project uses a dataset of diagnostic measurements to train a machine learni
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction-ml.git
-   cd diabetes-prediction-ml
+  https://github.com/om-ganechari/Diabetes-Prediction-.git
